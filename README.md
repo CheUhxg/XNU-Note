@@ -2,7 +2,7 @@
 
 ## Basement
 
-* XNU的一些玩法（怎么搭建、怎么测试等）。
+* XNU的一些玩法、基础知识。
 
 ## Mitigation
 
