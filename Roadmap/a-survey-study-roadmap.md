@@ -30,7 +30,7 @@
 
 | 日期 | 每日安排 | 链接 |
 | :--- | :--- | :--- |
-| **Day 1** | C/ObjC 基础，指针与内存布局思维。 | |
+| **Day 1** | C/ObjC 基础，指针与内存布局思维。 | [objc-basics-pointers-memory-layout](../Basement/objc-basics-pointers-memory-layout.md) |
 | **Day 2** | Mach IPC 基本概念（端口、消息、rights）。 | |
 | **Day 3** | XNU 基础与内存分配（zone/kalloc）。 | |
 
